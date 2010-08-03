@@ -3,6 +3,7 @@
 
 = List =
 
+|| --------------------------------------------------------- || || -- || || -- || || -- || 
 || Login / registration / account init || || done || || deployed || ||  || 
 || Add event || || done || || deployed? || ||  || 
 || Add action || || done || || deployed? || ||  || 
@@ -25,7 +26,6 @@
 || Community members page || ||  || ||  || ||  || 
 || Themes, _Skins_ || ||  || ||  || ||  || 
 ||  || ||  || ||  || ||  || 
-
 || fix no-script video display || ||  || ||  || ||  || 
 
 
