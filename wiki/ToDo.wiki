@@ -10,6 +10,7 @@
 || Add _your events_ || || done || || deployed? || ||  || 
 || Add _your actions_ || || done || || deployed? || ||  || 
 || Add _your media_ || || done || || deployed? || ||  || 
+|| Add events.event_type filtering (by _action_, or _event_ event_types.event_type)* || || done || || deployed? || ||  || 
 || Add community || ||  || ||  || ||  || 
 || Join community || ||  || ||  || ||  || 
 || Add community media || || done || ||  || ||  || 
@@ -42,4 +43,4 @@
 = Details =
 
 ...
-  * ...
+  * *Straight-forward way to do it: FORM and dynamic fields building, and code save.
