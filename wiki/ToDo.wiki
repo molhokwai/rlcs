@@ -7,6 +7,13 @@
 || Login / registration / account init || || done || || deployed || ||  || 
 || Add event || || done || || deployed? || ||  || 
 || Add action || || done || || deployed? || ||  || 
+|| Add community || ||  || ||  || ||  || 
+|| Join community || ||  || ||  || ||  || 
+|| Add community media || || done || ||  || ||  || 
+||------------audio || ||  || ||  || ||  || 
+||------------video || ||  || ||  || ||  || 
+||------------image || ||  || ||  || ||  || 
+||------------link || ||  || ||  || ||  || 
 || Add event media || || done || ||  || ||  || 
 ||------------audio || ||  || ||  || ||  || 
 ||------------video || ||  || ||  || ||  || 
