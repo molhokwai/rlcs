@@ -7,6 +7,9 @@
 || Login / registration / account init || || done || || deployed || ||  || 
 || Add event || || done || || deployed? || ||  || 
 || Add action || || done || || deployed? || ||  || 
+|| Add _your events_ || || done || || deployed? || ||  || 
+|| Add _your actions_ || || done || || deployed? || ||  || 
+|| Add _your media_ || || done || || deployed? || ||  || 
 || Add community || ||  || ||  || ||  || 
 || Join community || ||  || ||  || ||  || 
 || Add community media || || done || ||  || ||  || 
