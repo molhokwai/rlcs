@@ -10,7 +10,7 @@
 || Add _your events_ || || done || || deployed? || ||  || 
 || Add _your actions_ || || done || || deployed? || ||  || 
 || Add _your media_ || || done || || deployed? || ||  || 
-|| Add events.event_type filtering (by _action_, or _event_ event_types.event_type)* || ||  || || deployed? || || simplified to type prefix || 
+|| Add events.event_type filtering (by _action_, or _event_ event_types.event_type)* || ||  done || || deployed? || || simplified to type prefix || 
 || Add community || ||  || ||  || ||  || 
 || Join community || ||  || ||  || ||  || 
 || Add community media || || done || ||  || ||  || 
