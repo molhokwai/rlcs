@@ -36,6 +36,7 @@
 || Member page || ||  || ||  || ||  || 
 || Community members page || ||  || ||  || ||  || 
 || Themes, _Skins_ || ||  || ||  || ||  || 
+|| Navigation by text input || ||  || ||  || ||  || 
 ||  || ||  || ||  || ||  || 
 || fix no-script video display || ||  || ||  || ||  || 
 
