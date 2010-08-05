@@ -11,7 +11,7 @@
 || Add _your actions_ || || done || || deployed? || ||  || 
 || Add _your media_ || || done || || deployed? || ||  || 
 || Add events.event_type filtering (by _action_, or _event_ event_types.event_type)* || ||  done || || deployed? || || simplified to type prefix || 
-|| Add community || ||  || ||  || ||  || 
+|| Add community || || done || ||  || ||  || 
 || Join community || ||  || ||  || ||  || 
 || Add community media || ||  || ||  || ||  || 
 ||------------audio || || done || ||  || ||  || 
