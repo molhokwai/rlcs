@@ -45,7 +45,7 @@
 = Details =
 
 ...
-  * '*'Straight-forward way to do it: FORM and dynamic fields building, and code save.
+  * **Straight-forward way to do it: FORM and dynamic fields building, and code save.
   * from established add/edit/delete app pattern:
     # generate a list of db.tables names and use the db.tables as action object
     # for actions such as 'add member media' generate check
