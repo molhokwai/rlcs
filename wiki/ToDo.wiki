@@ -39,9 +39,15 @@
 || Navigation by text input, keyboard command interface || ||  || ||  || ||  || 
 ||  || ||  || ||  || ||  || 
 || fix no-script video display || ||  || ||  || ||  || 
+|| cli_web: All the way... || ||  || ||  || ||  || 
 
 
 = Details =
 
 ...
   * *Straight-forward way to do it: FORM and dynamic fields building, and code save.
+  * from established add/edit/delete app pattern:
+    # generate a list of db.tables names and use the db.tables as action object
+    # for actions such as 'add member media' generate check
+      * if table contains reference(s) to others
+        * n-n relationship tables? sharing pattern (page: share [db.table] with...)
