@@ -13,7 +13,7 @@
 || Add events.event_type filtering (by _action_, or _event_ event_types.event_type)* || ||  done || || deployed? || || simplified to type prefix || 
 || Add community || || done || ||  || ||  || 
 || Join community || ||  || ||  || ||  || 
-|| Add community media || ||  || ||  || ||  || 
+|| Add community media || || done || ||  || ||  || 
 ||------------audio || || done || ||  || ||  || 
 ||------------video || || done || ||  || ||  || 
 ||------------image || || done || ||  || ||  || 
