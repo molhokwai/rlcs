@@ -5,12 +5,12 @@
 
 || ------------------------------------------------------------------------------------------------------------------ || || -- || || -- || || -- || 
 || Login / registration / account init || || done || || deployed || ||  || 
-|| Add event || || done || || deployed? || ||  || 
-|| Add action || || done || || deployed? || ||  || 
-|| Add _your events_ || || done || || deployed? || ||  || 
-|| Add _your actions_ || || done || || deployed? || ||  || 
-|| Add _your media_ || || done || || deployed? || ||  || 
-|| Add events.event_type filtering (by _action_, or _event_ event_types.event_type)* || ||  done || || deployed? || || simplified to type prefix || 
+|| Add event || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com staging] | ... ) || ||  || 
+|| Add action || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com staging] | ... ) || ||  || 
+|| Add _your events_ || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com staging] | ... ) || ||  || 
+|| Add _your actions_ || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com staging] | ... ) || ||  || 
+|| Add _your media_ || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com staging] | ... ) || ||  || 
+|| Add events.event_type filtering (by _action_, or _event_ event_types.event_type)* || ||  done || || deployed ( [http://11.latest.molhokwai-net.appspot.com staging] | ... ) || || simplified to type prefix || 
 || Add community || || done || ||  || ||  || 
 || Join community || || done || ||  || ||  || 
 || Add community media || || done || ||  || ||  || 
@@ -18,20 +18,20 @@
 ||------------video || || done || ||  || ||  || 
 ||------------image || || done || ||  || ||  || 
 ||------------link || ||  || ||  || ||  || 
-|| Add event media || || done || || deployed? || ||  || 
-||------------audio || || done || || deployed? || ||  || 
-||------------video || || done || || deployed? || ||  || 
-||------------image || || done || || deployed? || ||  || 
+|| Add event media || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com staging] | ... ) || ||  || 
+||------------audio || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com staging] | ... ) || ||  || 
+||------------video || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com staging] | ... ) || ||  || 
+||------------image || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com staging] | ... ) || ||  || 
 ||------------link || ||  || ||  || ||  || 
 || Add action media || ||  || ||  || ||  || 
-||------------audio || || done || || deployed? || ||  || 
-||------------video || || done || || deployed? || ||  || 
-||------------image || || done || || deployed? || ||  || 
+||------------audio || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com staging] | ... ) || ||  || 
+||------------video || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com staging] | ... ) || ||  || 
+||------------image || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com staging] | ... ) || ||  || 
 ||------------link || ||  || ||  || ||  || 
 || Add member media || ||  || ||  || ||  || 
-||------------audio || || done || || deployed? || ||  || 
-||------------video || || done || || deployed? || ||  || 
-||------------image || || done || || deployed? || ||  || 
+||------------audio || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com staging] | ... ) || ||  || 
+||------------video || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com staging] | ... ) || ||  || 
+||------------image || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com staging] | ... ) || ||  || 
 ||------------link || ||  || ||  || ||  || 
 || Member page || ||  || ||  || ||  || 
 || Community members page || ||  || ||  || ||  || 
