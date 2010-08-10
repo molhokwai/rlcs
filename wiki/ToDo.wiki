@@ -34,6 +34,9 @@
 ||------------image || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] | ... ) || ||  || 
 ||------------link || ||  || ||  || ||  || 
 || Member page || ||  || ||  || ||  || 
+||------------relationships add, edit || ||  || ||  || ||  || 
+||------------actions, events || ||  || ||  || ||  || 
+||------------infos edit || ||  || ||  || ||  || 
 || Community members page || ||  || ||  || ||  || 
 || Themes, _Skins_ || ||  || ||  || ||  || 
 || Navigation by text input, keyboard command interface || ||  || ||  || ||  || 
