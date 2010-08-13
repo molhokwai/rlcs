@@ -1,6 +1,12 @@
 #labels Phase-Implementation,Featured
 #simple todo list, for most simple, straight forward project collaboration possible
 
+==Next==
+In controllers/event:
+  * _list: select all relevant events (all users' communities events)
+  * participate: implement
+  * actions/events view
+
 = List =
 
 || ------------------------------------------------------------------------------------------------------------------ || || -- || || -- || || -- || 
@@ -34,7 +40,7 @@
 ||------------image || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] | ... ) || ||  || 
 ||------------link || ||  || ||  || ||  || 
 || Member page || ||  || ||  || ||  || 
-||------------relationships add, edit || ||  || ||  || ||  || 
+||------------relationships add, edit || || done || ||  || ||  || 
 ||------------actions, events || ||  || ||  || ||  || 
 ||----------------------see || ||  || ||  || ||  || 
 ||----------------------participate || ||  || ||  || ||  || 
