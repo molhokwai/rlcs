@@ -50,7 +50,7 @@ In controllers/event:
 || Add security || ||  || ||  || ||  || 
 ||------------community management (for members only) || ||  || ||  || ||  || 
 ||------------events, actions & media management (for members only) || ||  || ||  || ||  || 
-||------------relationships management (for members in relationship only) || ||  || ||  || ||  || 
+||------------relationship management (for members in relationship only) || ||  || ||  || ||  || 
 || Themes, _Skins_ || ||  || ||  || ||  || 
 || Navigation by text input, keyboard command interface || ||  || ||  || ||  || 
 ||  || ||  || ||  || ||  || 
