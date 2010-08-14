@@ -3,7 +3,7 @@
 
 ==Next==
 In controllers/event:
-  * actions/events view
+  * actions/events member views
   * infos/ edit
   * member page flow
 
