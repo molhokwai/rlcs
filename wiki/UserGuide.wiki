@@ -10,14 +10,19 @@ The navigation happens through the command box. You have to ways of entering the
 
 Once in the command box, you can type `help` to see the commands available.
 
+
 == more ==
 More here: [#navigation:_advanced "navigation: advanced"]
 
+
+
 = Communitites =
+
 
 == view communities ==
   * Type `view communities` in the [#mechanism:_command_box command box]
   * And that's it: the system shows you the communities available
+
 
 == join a community ==
   * Type `view communities` in the [#mechanism:_command_box command box]
@@ -26,6 +31,7 @@ More here: [#navigation:_advanced "navigation: advanced"]
 
 *alternative*
   * Type `join community :community_name` in the command box, where _community_name_ is the name of the community you've chosen, as you see it on the page
+
 
 == go into a community ==
 Once you have [#join_a_community "joined a community"] you need to _go into it_ to interact with your fellow members, join events or actions, create events or actions... to go into the community:
@@ -36,7 +42,11 @@ Once you have [#join_a_community "joined a community"] you need to _go into it_ 
 *alternative*
   * Type `go into community :community_name` in the command box, where _community_name_ is the name of your community
 
+
+
 = Events =
+
+
 == creation ==
 Events are always created within a community. The flow:
   * you [#go_into_a_community "go into your community"] if you are not already into a community
@@ -46,6 +56,7 @@ Events are always created within a community. The flow:
 
 = Addendum =
 
+
 == navigation: advanced ==
 If you wish to directly, in one step, for example join a community named _Love on Earth_, you can do the following:
   * type `go into community :Love on earth`
@@ -53,6 +64,7 @@ If you wish to directly, in one step, for example join a community named _Love o
 ...and (if all goes well :-)) the system is directly making you a member of the community.
 
 The `:` in the command actually tells the system that `Love on earth` is the parameter for the command `go into community`.
+
 
 == navigation: advanced ==
 The engine uses [http://www.javascript.com javascript] with [http://www.jquery.com Jquery], so you can actually type javascript and/or Jquery code in there...
