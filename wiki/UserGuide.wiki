@@ -24,6 +24,9 @@ More here: [#navigation:_advanced "navigation: advanced"]
   * Select a community, to view its details and join, or join directly
   * Voilà: you're in...
 
+*alternative*
+  * Type `join community :community_name` in the command box, where _community_name_ is the name of the community you've chosen, as you see it on the page
+
 == go into a community ==
 Once you have [#join_a_community "joined a community"] you need to _go into it_ to interact with your fellow members, join events or actions, create events or actions... to go into the community:
   * Type `go into community` in the [#mechanism:_command_box command box]
