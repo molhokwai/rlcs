@@ -1,0 +1,55 @@
+#summary One-sentence summary of this page.
+#labels Featured,Phase-Requirements,Phase-Design
+
+= Navigation =
+
+== <a href="#mechanism_command_box">mechanism: command box</a> ==
+The navigation happens through the command box. You have to ways of entering the command box:
+  * by double clicking anywhere except in links
+  * by _double clicking_ the Ctrl key (hit the Ctrl key two times, fast...)
+
+Once in the command box, you can type `help` to see the commands available.
+
+== more ==
+More here: [#addendum_navigation_advanced "navigation: advanced"]
+
+= Communitites =
+
+== <a href="#view_communities">view communities</a> ==
+  * Type `view communities` in the [#mechanism_command_box command box]
+  * And that's it: the system shows you the communities available
+
+== <a href="#join_a_community">join a community</a> ==
+  * Type `view communities` in the [#mechanism_command_box command box]
+  * Select a community, to view its details and join, or join directly
+  * Voilà: you're in...
+
+== <a href="#go_into_community">go into community</a> ==
+Once you have [#join_a_community "joined a community"] you need to _go into it_ to interact with your fellow members, join events or actions, create events or actions... to go into the community:
+  * Type `go into community` in the [#mechanism_command_box command box]
+  * Click on the go into community link of the community
+  * Voilà: you're into the community
+
+*alternative*
+  * Type `go into community :community_name` in the command box, where _community_name_ is the name of your community
+
+= Events =
+== creation ==
+Events are always created within a community. The flow:
+  * you [#go_into_community "go into your community"] if you are not already into a community
+  * you type create event in the command box
+  * and the system presents the event creation page to you
+
+
+= Addendum =
+
+== <a href="#addendum_navigation_advanced">navigation: advanced</a> ==
+If you wish to directly, in one step, for example join a community named _Love on Earth_, you can do the following:
+  * type `go into community :Love on earth`
+
+...and (if all goes well :-)) the system is directly making you a member of the community.
+
+The `:` in the command actually tells the system that `Love on earth` is the parameter for the command `go into community`.
+
+== <a href="#addendum_navigation_the_engine">navigation: advanced</a> ==
+The engine uses [http://www.javascript.com javascript] with [http://www.jquery.com Jquery], so you can actually type javascript and/or Jquery code in there...
