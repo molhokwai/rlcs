@@ -3,7 +3,7 @@
 
 = Navigation =
 
-== <a name="#mechanism_command_box">mechanism: command box</a> ==
+== mechanism: command box ==
 The navigation happens through the command box. You have to ways of entering the command box:
   * by double clicking anywhere except in links
   * by _double clicking_ the Ctrl key (hit the Ctrl key two times, fast...)
