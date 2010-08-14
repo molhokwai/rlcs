@@ -3,9 +3,9 @@
 
 ==Next==
 In controllers/event:
-  * _list: select all relevant events (all users' communities events)
-  * participate: implement
   * actions/events view
+  * infos/ edit
+  * member page flow
 
 = List =
 
@@ -43,7 +43,7 @@ In controllers/event:
 ||------------relationships add, edit || || done || ||  || ||  || 
 ||------------actions, events || ||  || ||  || ||  || 
 ||----------------------see || ||  || ||  || ||  || 
-||----------------------participate || ||  || ||  || ||  || 
+||----------------------participate || || done || ||  || ||  || 
 ||------------infos edit || ||  || ||  || ||  || 
 || Community members page || ||  || ||  || ||  || 
 || Add community context (in session, in display) || ||  || ||  || ||  || 
