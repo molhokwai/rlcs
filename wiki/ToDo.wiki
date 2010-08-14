@@ -47,6 +47,10 @@ In controllers/event:
 ||------------infos edit || ||  || ||  || ||  || 
 || Community members page || ||  || ||  || ||  || 
 || Add community context (in session, in display) || ||  || ||  || ||  || 
+|| Add security || ||  || ||  || ||  || 
+||------------community management (for members only) || ||  || ||  || ||  || 
+||------------events, actions & media management (for members only) || ||  || ||  || ||  || 
+||------------relationships management (for _member_ in relationship only) || ||  || ||  || ||  || 
 || Themes, _Skins_ || ||  || ||  || ||  || 
 || Navigation by text input, keyboard command interface || ||  || ||  || ||  || 
 ||  || ||  || ||  || ||  || 
