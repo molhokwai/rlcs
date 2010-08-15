@@ -44,10 +44,10 @@ In controllers/event:
 ||------------image || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] | ... ) || ||  || 
 ||------------link || ||  || ||  || ||  || 
 || Member page || ||  || ||  || ||  || 
-||------------relationships add, edit || || done || ||  || ||  || 
-||------------actions, events || || done || ||  || ||  || 
-||----------------------see || || done || ||  || ||  || 
-||----------------------participate || || done || ||  || ||  || 
+||------------relationships add, edit || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
+||------------actions, events || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
+||----------------------see || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
+||----------------------participate || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
 ||------------infos edit || ||  || ||  || ||  || 
 || Community members page || ||  || ||  || ||  || 
 || Add community context (in session, in display) || ||  || ||  || ||  || 
