@@ -5,6 +5,7 @@
 In controllers/event:
   * actions/events member views
   * infos/ edit
+  * media gallery
   * member page flow
 
 = List =
