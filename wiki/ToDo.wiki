@@ -1,9 +1,11 @@
 #labels Phase-Implementation,Featured
 #simple todo list, for most simple, straight forward project collaboration possible
 
+==Note==
+  * *done*: raw prototype functionality
+
 ==Next==
 In controllers/event:
-  * actions/events member views
   * infos/ edit
   * media gallery
   * member page flow
@@ -42,8 +44,8 @@ In controllers/event:
 ||------------link || ||  || ||  || ||  || 
 || Member page || ||  || ||  || ||  || 
 ||------------relationships add, edit || || done || ||  || ||  || 
-||------------actions, events || ||  || ||  || ||  || 
-||----------------------see || ||  || ||  || ||  || 
+||------------actions, events || || done || ||  || ||  || 
+||----------------------see || || done || ||  || ||  || 
 ||----------------------participate || || done || ||  || ||  || 
 ||------------infos edit || ||  || ||  || ||  || 
 || Community members page || ||  || ||  || ||  || 
