@@ -7,8 +7,7 @@ Meaning of the statuses:
 
 ==Next==
 In controllers/event:
-  * fix: Nkensa joined a community, but cannot see it in his list
-  * `fixed?` test fix relation ship users display issue: community Nkensa joined molhokwai's community but molhokwai does not see Nkensa in the relationship user's list
+  * `fixed?` test fix relation ship users display issue: Nkensa joined molhokwai's community but molhokwai does not see Nkensa in the relationship user's list
   * infos/ edit
   * media gallery
   * member page flow
