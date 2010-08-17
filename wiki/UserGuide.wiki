@@ -59,9 +59,9 @@ Events are always created within a community. The flow:
 
 == navigation: advanced ==
 If you wish to directly, in one step, for example join a community named _Love on Earth_, you can do the following:
-  * type `go into community :Love on earth`
+  * type `join community :Love on earth`
 
-...and (if all goes well :-)) the system is directly making you a member of the community.
+...and (if all goes well :-)... there might be a page in between) the system is directly making you a member of the community
 
 The `:` in the command actually tells the system that `Love on earth` is the parameter for the command `go into community`.
 
