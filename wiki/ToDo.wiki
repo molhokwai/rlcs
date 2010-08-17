@@ -1,7 +1,7 @@
 #labels Phase-Implementation,Featured
 #simple todo list, for most simple, straight forward project collaboration possible
 
-==Notes==
+==Glossary==
 Meaning of the statuses:
   * *done*: raw prototype functionality
 
