@@ -2,7 +2,7 @@
 #simple todo list, for most simple, straight forward project collaboration possible
 
 ==Glossary==
-Meaning of the statuses:
+===statuses:===
   * *done*: raw prototype functionality
 
 ==Next==
