@@ -7,7 +7,6 @@ Meaning of the statuses:
 
 ==Next==
 In controllers/event:
-  * infos/ edit
   * media gallery
   * member page flow
 
