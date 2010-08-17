@@ -53,8 +53,11 @@ In controllers/event:
 ||------------community management (for members only) || ||  || ||  || ||  || 
 ||------------events, actions & media management (for members only) || ||  || ||  || ||  || 
 ||------------relationship management (for members in relationship only) || ||  || ||  || ||  || 
+|| First login: || ||  || ||  || ||  || 
+|| ------------Disclaimer, Legal stuff... || ||  || ||  || ||  || 
+|| ------------Look & Feel... || ||  || ||  || ||  || 
 || Themes, _Skins_ || ||  || ||  || ||  || 
-|| Navigation by text input, keyboard command interface || ||  || ||  || ||  || 
+|| Navigation by text input, keyboard command interface || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
 ||  || ||  || ||  || ||  || 
 || fix no-script video display || ||  || ||  || ||  || 
 || cli_web: All the way... || ||  || ||  || ||  || 
