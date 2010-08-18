@@ -47,7 +47,7 @@ In controllers/event:
 ||----------------------see || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
 ||----------------------participate || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
 ||------------infos edit || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
-|| Communities page || ||  || ||  || ||  || 
+|| Communities page || || done || ||  || ||  || 
 || Community members page || ||  || ||  || ||  || 
 || Add community context (in session, in display) || ||  || ||  || ||  || 
 || Add security || ||  || ||  || ||  || 
