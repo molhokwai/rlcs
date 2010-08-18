@@ -7,7 +7,7 @@
 
 ==Next==
 In controllers/event:
-  * member page flow: mostly _inner pages_ data display, and look&feel...
+  * ...
 
 = List =
 
