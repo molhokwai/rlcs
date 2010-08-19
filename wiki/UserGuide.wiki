@@ -67,7 +67,7 @@ The data is public and available to all who eventually visit and/or search the s
 
 Your contact details and messages are private (e-mail, phone number, messenger, voip user, address....) in accordance with the privacy laws of your country.
 
-Here, privacy means shared by the members of your community only. Any new member accessing the community only has access to your contact details and messages, after you've raised your veto.
+Here, *privacy means shared by the members of your community* only. Any new member accessing the community only has access to your contact details and messages, after you've raised your veto.
 
 == New membership / Veto-ing ==
 
