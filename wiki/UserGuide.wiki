@@ -57,11 +57,14 @@ Events are always created within a community. The flow:
 
 = Security & _Publicity_ =
 
-== Privacy, Contact details ==
+== _Publicity_ ==
+Except for contact data and your messages ([#privacy_contact_details see below]), all the data put into the application is public. Audio, Video, Media...
 
-Your contact details are private (e-mail, phone number, messenger, voip user, address....) in accordance with the privacy laws of your country.
+== Privacy, Contact details & Messages ==
 
-Here, privacy means shared by the members of your community only. Any new member accessing the community only has access to your contact details, after you've raised your veto.
+Your contact details and messages are private (e-mail, phone number, messenger, voip user, address....) in accordance with the privacy laws of your country.
+
+Here, privacy means shared by the members of your community only. Any new member accessing the community only has access to your contact details and messages, after you've raised your veto.
 
 == New membership / Veto-ing ==
 
