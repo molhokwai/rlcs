@@ -1,5 +1,5 @@
-#summary One-sentence summary of this page.
 #labels Featured,Phase-Requirements,Phase-Design
+#how it works, functionalities, features...
 
 = Navigation =
 
@@ -54,8 +54,29 @@ Events are always created within a community. The flow:
   * and the system presents the event creation page to you
 
 
-= Addendum =
 
+= Security & _Publicity_ =
+
+== Privacy, Contact details ==
+
+Your contact details are private (e-mail, phone number, messenger, voip user, address....) in accordance with the privacy laws of your country.
+
+Here, privacy means shared by the members of your community only. Any new member accessing the community only has access to your contact details, after you've raised your veto.
+
+== New membership / Veto-ing ==
+
+_If you do not raise your veto after the member is in: the veto-ing procedure is automatically engaged_.
+
+A new member joins the community through the application.
+In case any member believes the person should not come in, the veto-ing procedure applies:
+
+  * The member veto-ing requests a community meeting
+  * The member veto-ing explains in front of the community, to the new comer, and only to the new comer why he/she believes the new comer should not come in
+  * The new comer decides who of the both should leave. And leaves the next day if he/she decided for him/herself or the veto-er leaves the next day
+
+If there is more than one veto-er, the procedure applies for each one of them.
+
+= Addendum =
 
 == navigation: advanced ==
 If you wish to directly, in one step, for example join a community named _Love on Earth_, you can do the following:
