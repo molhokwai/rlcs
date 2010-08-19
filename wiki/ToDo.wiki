@@ -6,8 +6,9 @@
   * *done*: raw prototype functionality
 
 ==Next==
-In controllers/event:
-  * ...
+...:
+  * dostuff method to update icon_url for all communities where None
+  * upload molhokwai.files last version
 
 = List =
 
