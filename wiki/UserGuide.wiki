@@ -58,7 +58,10 @@ Events are always created within a community. The flow:
 = Security & _Publicity_ =
 
 == _Publicity_ ==
-Except for contact data and your messages ([#privacy_contact_details see below]), all the data put into the application is public. Audio, Video, Media...
+Except for contact data and messages ([#privacy_contact_details see below]), all the data put into the system is public. Audio, Video, Media...
+
+The data is public and available to all who eventually visit and/or search the site...
+
 
 == Privacy, Contact details & Messages ==
 
