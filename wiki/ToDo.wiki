@@ -50,7 +50,7 @@ In controllers/event:
 || Communities page || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
 || Community members page || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
 || Add community context (in session, in display) || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
-|| Add security || ||  || ||  || ||  || 
+|| Security & _Publicity_ of the pages || ||  || ||  || ||  || 
 ||------------community management (for members only) || ||  || ||  || ||  || 
 ||------------events, actions & media management (for members only) || ||  || ||  || ||  || 
 ||------------relationship management (for members in relationship only) || ||  || ||  || ||  || 
