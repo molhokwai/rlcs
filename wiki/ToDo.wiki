@@ -51,9 +51,9 @@ In controllers/event:
 || Community members page || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
 || Add community context (in session, in display) || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
 || Security & _Publicity_ of the pages || ||  || ||  || ||  || 
-||------------community management (for members only) || ||  || ||  || ||  || 
-||------------events, actions & media management (for members only) || ||  || ||  || ||  || 
-||------------relationship management (for members in relationship only) || ||  || ||  || ||  || 
+||------------community management (for members only) || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] | ... ) || ||  || 
+||------------events, actions & media management (for members only) || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] | ... ) || ||  || 
+||------------relationship management (for members in relationship only) || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] | ... ) || ||  || 
 || First login: || ||  || ||  || ||  || 
 || ------------Disclaimer, Legal stuff... || ||  || ||  || ||  || 
 || ------------Look & Feel... || ||  || ||  || ||  || 
