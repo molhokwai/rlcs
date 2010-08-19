@@ -47,9 +47,9 @@ In controllers/event:
 ||----------------------see || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
 ||----------------------participate || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
 ||------------infos edit || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
-|| Communities page || || done || ||  || ||  || 
-|| Community members page || || done || ||  || ||  || 
-|| Add community context (in session, in display) || || done || ||  || ||  || 
+|| Communities page || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
+|| Community members page || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
+|| Add community context (in session, in display) || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
 || Add security || ||  || ||  || ||  || 
 ||------------community management (for members only) || ||  || ||  || ||  || 
 ||------------events, actions & media management (for members only) || ||  || ||  || ||  || 
