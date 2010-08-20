@@ -8,8 +8,8 @@ You can download the (normally latest) stable version of the code <a href="http:
 == (X?)HTML + CSS ==
 
 Not necessarily the latest version, and custom modules css not included...
-  * base file
-  * secondary file
+  * [http://code.google.com/p/rlcs/downloads/detail?name=base.css&can=2&q=#makechanges base.css]
+  * [http://code.google.com/p/rlcs/downloads/detail?name=style.css&can=2&q=#makechanges (secondary) style.css]
 
 
 == Improvements ==
