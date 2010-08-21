@@ -7,8 +7,8 @@
 
 ==Next==
 ...:
-  * dostuff method to update icon_url for all communities where None
-  * upload molhokwai.files last version
+  * ...
+  * ...
 
 = List =
 
@@ -51,7 +51,7 @@
 || Communities page || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
 || Community members page || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
 || Add community context (in session, in display) || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
-|| Security & _Publicity_ of the pages || ||  || ||  || ||  || 
+|| Security & _Publicity_ of the pages || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] | ... ) || ||  || 
 ||------------community management (for members only) || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] | ... ) || ||  || 
 ||------------events, actions & media management (for members only) || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] | ... ) || ||  || 
 ||------------relationship management (for members in relationship only) || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] | ... ) || ||  || 
