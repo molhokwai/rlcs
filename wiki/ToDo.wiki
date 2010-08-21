@@ -55,9 +55,9 @@
 ||------------community management (for members only) || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] | ... ) || ||  || 
 ||------------events, actions & media management (for members only) || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] | ... ) || ||  || 
 ||------------relationship management (for members in relationship only) || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] | ... ) || ||  || 
-|| First login: || ||  || ||  || ||  || 
-|| ------------Disclaimer, Legal stuff... || ||  || ||  || ||  || 
-|| ------------Look & Feel... || ||  || ||  || ||  || 
+|| First login: || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] | ... ) || ||  || 
+|| ------------Disclaimer, Legal stuff... || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] | ... ) || ||  || 
+|| ------------Look & Feel... || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] | ... ) || ||  || 
 || Themes, _Skins_ || ||  || ||  || ||  || 
 || Navigation by text input, keyboard command interface || || done || || deployed ( [http://11.latest.molhokwai-net.appspot.com/lcs staging] || ||  || 
 ||  || ||  || ||  || ||  || 
