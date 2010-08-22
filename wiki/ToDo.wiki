@@ -7,7 +7,6 @@
 
 ==Next==
 ...:
-  * language translations intl page
   * internal messaging
   * veto-ing process
   * all data package and download link
