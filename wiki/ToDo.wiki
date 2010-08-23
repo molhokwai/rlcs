@@ -7,7 +7,6 @@
 
 ==Next==
 ...:
-  * internal messaging
   * veto-ing process
   * all data package and download link
   * term reminders & term expiry process
