@@ -10,7 +10,7 @@ A new member joins the community and at least one member does not welcomed him (
     `loop: session.new_members.append.get_new_members()`
     `get_new_members(): session.new_members.each.welcomed is False>0`
 
-  * message: _a new member has joined the community: &lt;link&gt;name of the member&lt;link&gt;. For him/her to have access to your data, welcome him/her: &lt;link&gt;member welcome page&lt;link&gt_;
+  * message: _a new member has joined the community: <link>name of the member<link>. For him/her to have access to your data, welcome him/her: <link>member welcome page<link>_
   * member does welcome: 
     `db(new_member.session.new_member.welcomed[member.id]=True).save()`
     `new_member.welcomed[member.id]=True`
@@ -19,7 +19,7 @@ A new member joins the community and at least one member does not welcomed him (
     * member enters welcome page but exits without welcoming
     `new_member.session.new_member.welcomed[member.id]=False
     `db(session.process.vetoing=True).save`
-  * message: _A new member is not welcomed by all. The veto-ing process is on, an email is being sent about the procedure. All community activity is frozen. You can always welcome him/her here: &lt;link&gt;member welcome page&lt;link&gt_;
+  * message: _A new member is not welcomed by all. The veto-ing process is on, an email is being sent about the procedure. All community activity is frozen. You can always welcome him/her here: <link>member welcome page<link>_
 
 
 === New members welcome page ===
