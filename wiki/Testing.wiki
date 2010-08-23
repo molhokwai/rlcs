@@ -1,0 +1,28 @@
+#summary One-sentence summary of this page.
+#labels Featured,Phase-QA
+
+== Simple test sequence ==
+
+  * Log in (first login)
+  * Create a community
+  * View communities's list
+  * Edit community
+  * View community
+    * View members' list
+      * View member
+  * Go into community:
+  * Events:
+    * Create an event
+    * View events' list in member page
+      * view event
+      * edit event
+  * Actions:
+    * Create an action
+    * View actions' list in member page
+      * view action
+      * edit action
+  * Participate to other's event
+  * Participate to other's action
+  * View relationships
+  * Add relationship
+  * Edit relationship
