@@ -4,7 +4,7 @@
 == Description ==
 
 === Start condition (_veeery veeeery_ pseudo code) ===
-A new member joins the community and at least one member does not welcomed him (when logging into the community).
+A new member joins the community and at least one member does not welcome him (when logging into the community).
 
   * member logs in: 
     `loop: session.new_members.append.get_new_members()`<br/>
