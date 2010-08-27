@@ -8,8 +8,9 @@
 ==Next==
 ...:
   * veto-ing process
-  * all data package and download link
-  * term reminders & term expiry process
+  * None user.display_name (gae related?) issue
+  * all data package and download link (if/when ever necessary)
+  * term reminders & term expiry process (if/when ever necessary)
 
 = List =
 
