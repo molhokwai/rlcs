@@ -8,6 +8,7 @@
 ==Next==
 ...:
   * veto-ing process
+    * +action links disabled in process & in veto
   * None user.display_name (gae related?) issue
   * all data package and download link (if/when ever necessary)
   * term reminders & term expiry process (if/when ever necessary)
