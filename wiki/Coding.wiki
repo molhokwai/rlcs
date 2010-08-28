@@ -1,5 +1,5 @@
 #labels Phase-Implementation
-#coding conventions, for the one writing this...
+#programming flow & conventions, for the one writing this...
 
 == LCS (RLCS) Licoso Coding Recommended Conventions ==
 
