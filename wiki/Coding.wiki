@@ -1,0 +1,11 @@
+#summary One-sentence summary of this page.
+#labels Phase-Implementation
+
+== LCS (RLCS) Licoso Coding Recommended Conventions ==
+
+=== Flow ===
+  * Explanation of what is to be done in English language
+  * Documentation of what is to be done following [http://docs.python.org/library/doctest.html these conventions]
+  * Pseudo coding in documentation
+  * Coding, Testing, Validation, Release
+  * Review
