@@ -7,17 +7,6 @@
 
 ==Next==
 ...:
-allowed:
-    /lcs/member/index/[new_member_id]
-    /lcs/member/index/[new_member_id]
-    /lcs/member/relationships/side-box/[new_member_id]/is_iframe
-    /lcs/event/_list/page-box/event/member/[new_member_id]
-    /lcs/event/_list/page-box/action/member/[new_member_id]
-    /lcs/member/infos/like/[new_member_id]
-    /lcs/media/_list/gallery/member/all/[new_member_id]/is_iframe
-    /lcs/community/_list/gallery/member/all/[new_member_id]/is_iframe
-    /lcs/community/_list/members/welcome
-
   * veto-ing process
     * +action links disabled in process & in veto
   * None user.display_name (gae related?) issue
