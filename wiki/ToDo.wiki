@@ -8,6 +8,8 @@
 ==Next==
 ...:
   * veto-ing process
+    * (web2py-on-gae related?) issue; possible reasons:
+      * `%(nr)i member(s) to welcome` translation int placeholder issue
     * +action links disabled in process & in veto
     * +fix in process veto-ing redirection: when member already into community, veto-ing redirection not done properly for member page
   * None user.display_name (web2py-on-gae related?) issue
