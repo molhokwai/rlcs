@@ -9,7 +9,8 @@
 ...:
   * veto-ing process
     * +action links disabled in process & in veto
-  * None user.display_name (gae related?) issue
+    * +fix in process veto-ing redirection: when member already into community, veto-ing redirection not done properly for member page
+  * None user.display_name (web2py-on-gae related?) issue
   * all data package and download link (if/when ever necessary)
   * term reminders & term expiry process (if/when ever necessary)
 
