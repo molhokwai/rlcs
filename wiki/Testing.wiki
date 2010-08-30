@@ -3,7 +3,7 @@
 
 == Simple test sequence ==
 
-  # Log in (first login)
+  # ===Log in (first login)===
   # Create a community
   # View communities's list
   # Edit community
