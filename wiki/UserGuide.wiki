@@ -1,6 +1,9 @@
 #labels Featured,Phase-Requirements,Phase-Design
 #how it works, functionalities, features...
 
+= !!!Update =
+The (more) complete User Guide is here: [http://11.latest.molhokwai-net.appspot.com/lcs/default/howitworks /lcs/default/howitworks]
+
 = Navigation =
 
 == mechanism: command box ==
