@@ -4,19 +4,19 @@
 == Simple test sequence ==
 
   # ====Log in (first login)====
-  # Create a community
-  # View communities's list
-  # Edit community
+  # ====Create a community====
+  # ====View communities's list====
+  # ====Edit community====
     # Add media:
       # audio
       # video
       # image
       # link...
-  # View community
+  # ====View community====
     # View members' list
       # View member
-  # Go into community:
-  # Events:
+  # ====Go into community...====
+  # ====Events:====
     # Create an event
     # View events' list in member page
       # view event
@@ -26,7 +26,7 @@
           # video
           # image
           # link...
-  # Actions:
+  # ====Actions:====
     # Create an action
     # View actions' list in member page
       # view action
@@ -36,8 +36,8 @@
           # video
           # image
           # link...
-  # Participate to other's event
-  # Participate to other's action
-  # View relationships
-  # Add relationship
-  # Edit relationship
+  # ====Participate to other's event====
+  # ====Participate to other's action====
+  # ====View relationships====
+  # ====Add relationship====
+  # ====Edit relationship====
