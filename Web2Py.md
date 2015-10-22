@@ -1,0 +1,8 @@
+#just a praise...
+
+# Praise #
+
+Magical framework... if you're a web developer, you simply _have_ to try it...
+
+# Links #
+  * home page http://www.web2py.com

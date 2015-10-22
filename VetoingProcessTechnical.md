@@ -1,0 +1,27 @@
+#gross technical description of the process
+
+## Description ##
+
+### Start condition (_veeery veeeery_ pseudo code) ###
+A new member joins the community and at least one member does not welcome him (when logging into the community).
+
+  * member logs in:
+> > `loop: session.new_members.append.get_new_members()`<br />
+> > `get_new_members(): session.new_members.each.welcomed is False>0`
+
+  * message: _a new member has joined the community:_<u>link:name of the member</u>. For him/her to have access to your data, welcome him/her: <u>link:members welcome page</u>_* member does welcome:
+> > `db(new_member.session.new_member.welcomed[member.id]=True).save()`
+> > `new_member.welcomed[member.id]=True`
+  * otherwise:
+    * member exits the page for another one than the welcome page
+    * member enters welcome page but exits without welcoming
+> > `new_member.session.new_member.welcomed[member.id]=False`_<br />
+> > `db(session.process.vetoing=True).save`
+  * message: _A new member is not welcomed by all. The veto-ing process is on, an email is being sent about the procedure. All community activity is frozen. You can always welcome him/her here:_<u>link:members welcome page</u>
+
+
+### New members welcome page ###
+| member icon | | member display name | |  view member | | welcome member! |
+|:------------|:|:--------------------|:|:-------------|:|:----------------|
+  * List of new members
+  * 

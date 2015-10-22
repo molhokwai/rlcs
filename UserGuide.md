@@ -1,0 +1,99 @@
+#how it works, functionalities, features...
+
+# !!!Update #
+The (more) complete User Guide is here: [/lcs/default/howitworks](http://11.latest.molhokwai-net.appspot.com/lcs/default/howitworks)
+
+# Navigation #
+
+## mechanism: command box ##
+The navigation happens through the command box. You have to ways of entering the command box:
+  * by double clicking anywhere except in links
+  * by _double clicking_ the Ctrl key (hit the Ctrl key two times, fast...)
+
+Once in the command box, you can type `help` to see the commands available.
+
+
+## more ##
+More here: ["navigation: advanced"](#navigation:_advanced.md)
+
+
+
+# Communitites #
+
+
+## view communities ##
+  * Type `view communities` in the [command box](#mechanism:_command_box.md)
+  * And that's it: the system shows you the communities available
+
+
+## join a community ##
+  * Type `view communities` in the [command box](#mechanism:_command_box.md)
+  * Select a community, to view its details and join, or join directly
+  * Voilà: you're in...
+
+**alternative**
+  * Type `join community :community_name` in the command box, where _community\_name_ is the name of the community you've chosen, as you see it on the page
+
+
+## go into a community ##
+Once you have ["joined a community"](#join_a_community.md) you need to _go into it_ to interact with your fellow members, join events or actions, create events or actions... to go into the community:
+  * Type `go into community` in the [command box](#mechanism:_command_box.md)
+  * Click on the go into community link of the community
+  * Voilà: you're into the community
+
+**alternative**
+  * Type `go into community :community_name` in the command box, where _community\_name_ is the name of your community
+
+
+
+# Events #
+
+
+## creation ##
+Events are always created within a community. The flow:
+  * you ["go into your community"](#go_into_a_community.md) if you are not already into a community
+  * you type create event in the [command box](#mechanism:_command_box.md)
+  * and the system presents the event creation page to you
+
+
+
+# Security & _Publicity_ #
+
+## _Publicity_ ##
+Except for contact data and messages ([see below](#privacy_contact_details.md)), all the data put into the system is public. Audio, Video, Media...
+
+The data is public and available to all who eventually visit and/or search the site...
+
+
+## Privacy, Contact details & Messages ##
+
+Your contact details and messages are private (e-mail, phone number, messenger, voip user, address....) in accordance with the privacy laws of your country.
+
+Here, **privacy means shared by the members of your community** only. Any new member accessing the community only has access to your contact details and messages, after you've raised your veto.
+
+## New membership / Veto-ing ##
+
+_If you do not raise your veto after the member is in: the veto-ing procedure is automatically engaged_.
+
+A new member joins the community through the application.
+In case any member believes the person should not come in, the veto-ing procedure applies:
+
+  * The member veto-ing requests a community meeting
+  * The member veto-ing explains in front of the community, to the new comer, and only to the new comer why he/she believes the new comer should not come in
+  * The new comer decides who of the both should leave. And leaves the next day if he/she decided for him/herself or the veto-er leaves the next day
+
+If there is more than one veto-er, the procedure applies for each one of them.
+
+# Addendum #
+
+## navigation: advanced ##
+If you wish to directly, in one step, for example join a community named _Love on Earth_, you can do the following:
+  * type `join community :Love on earth`
+
+...and (if all goes well :-)... there might be a page in between), the system is directly making you a member of the community
+
+The `:` in the command actually tells the system that `Love on earth` is the parameter for the command `join community`.
+
+
+## navigation: advanced ##
+The engine uses [javascript](http://www.javascript.com) with [Jquery](http://www.jquery.com), so you can actually type javascript and/or Jquery code in there...
